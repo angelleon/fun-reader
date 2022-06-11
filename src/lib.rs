@@ -1,3 +1,6 @@
+extern crate func;
+mod tokenizer;
+
 #[cfg(test)]
 mod tests {
     #[test]
