@@ -1,5 +1,5 @@
 extern crate func;
-mod tokenizer;
+pub mod tokenizer;
 
 #[cfg(test)]
 mod tests {
