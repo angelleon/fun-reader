@@ -4,7 +4,7 @@ pub mod tokenizer;
 #[cfg(test)]
 mod tests {
     #[test]
-    fn it_works() {
+    fn test_constant() {
         let result = 2 + 2;
         assert_eq!(result, 4);
     }
